@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Secc4_Video32_Udemy</string>
+    <string name="text01_contenido">Hola Android</string>
+    <string name="title_activity_segundo">SegundoActivity</string>
+</resources>
