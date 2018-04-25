@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 *.iml
 .gradle
 /local.properties
@@ -9,7 +9,7 @@
 /build
 /captures
 .externalNativeBuild
-=======
+
 # Built application files
 *.apk
 *.ap_
@@ -50,8 +50,7 @@ captures/
 .idea/tasks.xml
 .idea/gradle.xml
 .idea/dictionaries
-.idea/libraries
-
+.idea/libraries 
 # Keystore files
 *.jks
 
